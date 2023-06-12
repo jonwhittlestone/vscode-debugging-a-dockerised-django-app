@@ -6,7 +6,13 @@
 
 ## Usage:
 
-1. Run it.
+1. Create the `.env.dev`
+   
+      ```bash
+      cp .env.dev-sample .env.dev
+      ```
+
+2. Run it.
 
    ```bash
     docker-compose up --build
