@@ -1,0 +1,22 @@
+https://harpercollinsuk.atlassian.net/browse/BID-4939
+
+Goal
+=====
+Add a field to plang API, exp-api, and expose in Horizon
+
+
+Method
+======
+
+Adding an API field must be coordinated between:
+
+plang filemaker (Alan - Filemaker API) ---> plang-exp-api (Gayatri - Mule) --> Horizon (Jon - Python/Django)
+
+plang-exp-api - Where is the code to view precedent?
+Deployed to: http://hcukazlpjenslv.uk.harpercollins.org/mule/api/plang-exp-api/
+
+
+
+
+
+
